@@ -1,0 +1,25 @@
+{
+  "name": "algs_js",
+  "source": "src/index.html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Serji2158/algs_js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Serji2158/algs_js/issues"
+  },
+  "homepage": "https://github.com/Serji2158/algs_js#readme",
+  "devDependencies": {
+    "parcel": "^2.0.1"
+  }
+}
